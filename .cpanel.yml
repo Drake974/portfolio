@@ -1,0 +1,7 @@
+---
+  deployment:
+    tasks:
+      - export DEPLOYPATH=/homr/user/public_html/
+      - /bin/cp index.html $DEPLOYPATH
+      - /bin/cp -R src $DEPLOYPATH
+      - /bin/cp .htaccess $DEPLOYPATH
