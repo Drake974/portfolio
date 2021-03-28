@@ -1,5 +1,5 @@
 body{
-    font-family: 'New Tegomin', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .bg-header{
     height: 100vh;
@@ -43,7 +43,7 @@ h3:before, h3:after {
 /* expériences */
 .bg-experience{
     /* min-height: 550px;  */
-    background: url(../images/2021_03_25_15_07_11_Design_sans_titre_Fond_d_écran_d_ordinateur.jpg) no-repeat;
+    background: #190b1c;
     background-position: center;
     background-size: cover;
 }
