@@ -33,6 +33,7 @@ h3:before, h3:after {
 }
 .logo{
     width: 70px;
+    height: 70px;
 }
 .bg-footer{
     min-height: 70px;
